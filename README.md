@@ -328,32 +328,11 @@ Decision: Excluded from production system
 Building on Phase 3 learnings:
 
 ### 1. ETH Strategy Redesign
-```python
-
-```
-
 ### 2. Dynamic Position Sizing (Professional Upgrade)
-```python
-
-```
-
 ### 3. Portfolio-Level Risk Controls (Hedge Fund Standard)
-```python
-
-```
-
 ### 4. Walk-Forward Validation (Robustness Proof)
-```python
-
-```
 ### 5. Selective Asset Expansion (2–3 Assets Only)
-```python
-
-```
 ### 6. (Optional) AutoGluon Benchmarking
-```python
-
-```
 **Timeline**: Q1 2026
 
 ---

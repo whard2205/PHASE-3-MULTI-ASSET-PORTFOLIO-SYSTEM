@@ -256,11 +256,7 @@ Decision: Excluded from production system
 - [x] 72-162 trades per asset (statistical significance)
 - [x] Out-of-sample testing (no look-ahead bias)
 
-### Regime Detection ✅
-- [x] Auto-detect bull/bear markets
-- [x] Adaptive strategy switching
-- [x] BTC: 0.52 (bull) / 0.68 (bear) thresholds
-- [x] ETH: 0.43-0.50 regime-adjusted confirmation
+
 
 ### Multi-Asset Extension ✅
 - [x] Tested 3 assets (BTC, ETH, XRP)
